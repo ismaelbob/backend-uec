@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.4b64d55e.chunk.css",
-    "main.js": "/static/js/main.d0ab6726.chunk.js",
-    "main.js.map": "/static/js/main.d0ab6726.chunk.js.map",
+    "main.css": "/static/css/main.6e5c7308.chunk.css",
+    "main.js": "/static/js/main.e5d060f1.chunk.js",
+    "main.js.map": "/static/js/main.e5d060f1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bc89430b.js",
     "runtime-main.js.map": "/static/js/runtime-main.bc89430b.js.map",
     "static/css/2.ef9168ec.chunk.css": "/static/css/2.ef9168ec.chunk.css",
-    "static/js/2.0d5c3862.chunk.js": "/static/js/2.0d5c3862.chunk.js",
-    "static/js/2.0d5c3862.chunk.js.map": "/static/js/2.0d5c3862.chunk.js.map",
+    "static/js/2.43aec384.chunk.js": "/static/js/2.43aec384.chunk.js",
+    "static/js/2.43aec384.chunk.js.map": "/static/js/2.43aec384.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.ef9168ec.chunk.css.map": "/static/css/2.ef9168ec.chunk.css.map",
-    "static/css/main.4b64d55e.chunk.css.map": "/static/css/main.4b64d55e.chunk.css.map",
-    "static/js/2.0d5c3862.chunk.js.LICENSE.txt": "/static/js/2.0d5c3862.chunk.js.LICENSE.txt",
+    "static/css/main.6e5c7308.chunk.css.map": "/static/css/main.6e5c7308.chunk.css.map",
+    "static/js/2.43aec384.chunk.js.LICENSE.txt": "/static/js/2.43aec384.chunk.js.LICENSE.txt",
     "static/media/cancionero.css": "/static/media/himnarioverde.3f65cb09.png",
     "static/media/UEC.393db63c.png": "/static/media/UEC.393db63c.png",
     "static/media/add.dc1749ee.svg": "/static/media/add.dc1749ee.svg",
@@ -22,14 +22,15 @@
     "static/media/foto_c.12a53c0b.jpg": "/static/media/foto_c.12a53c0b.jpg",
     "static/media/foto_d.daa05374.jpg": "/static/media/foto_d.daa05374.jpg",
     "static/media/foto_e.00a6525c.jpg": "/static/media/foto_e.00a6525c.jpg",
+    "static/media/menu_sec.c795f4c1.svg": "/static/media/menu_sec.c795f4c1.svg",
     "static/media/refresh.2cfbfb63.svg": "/static/media/refresh.2cfbfb63.svg",
     "static/media/search.637db432.svg": "/static/media/search.637db432.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bc89430b.js",
     "static/css/2.ef9168ec.chunk.css",
-    "static/js/2.0d5c3862.chunk.js",
-    "static/css/main.4b64d55e.chunk.css",
-    "static/js/main.d0ab6726.chunk.js"
+    "static/js/2.43aec384.chunk.js",
+    "static/css/main.6e5c7308.chunk.css",
+    "static/js/main.e5d060f1.chunk.js"
   ]
 }
